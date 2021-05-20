@@ -1,5 +1,5 @@
 # Cryptick
-Little python cryptocurrency price ticker showing the latest close
+Little python cryptocurrency price ticker showing the latest close in USD
 
 Small little project, first dabble in python, so don't expect much of it
 
