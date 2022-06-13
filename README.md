@@ -1,4 +1,10 @@
 # Cryptick
+
+Edit: yfinance seems broken, and I don't care enough to fix it, but I'll just leave it up for reference
+
+
+
+
 Little python cryptocurrency price ticker showing the latest close in USD
 
 Small little project, first dabble in python, so don't expect much of it
