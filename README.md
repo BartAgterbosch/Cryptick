@@ -2,7 +2,7 @@
 
 Edit: yfinance seems broken, and I don't care enough to fix it, but I'll just leave it up for reference
 
-
+</br>
 
 
 Little python cryptocurrency price ticker showing the latest close in USD
